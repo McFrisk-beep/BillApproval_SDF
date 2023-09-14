@@ -1,0 +1,12 @@
+<emailtemplate scriptid="custemailtmpl_ba_vb_email_tpl">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description></description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <mediaitem></mediaitem>
+  <name>BA | Vendor Bill Email Template</name>
+  <recordtype>TRANSACTION</recordtype>
+  <subject>${transaction.tranId} Submitted for approval</subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>
